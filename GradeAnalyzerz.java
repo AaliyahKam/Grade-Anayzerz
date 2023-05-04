@@ -7,7 +7,7 @@ import java.util.Collections;
 public class GradeAnalyzerz {
     
     public static void main(String[] args) {
-        String filename = "C:\\Users\\ttaty\\Downloads\\prog6.txt";
+        String filename = "prog6.txt";
         
         // Create lists to store student names, grades, averages, and letter grades
         ArrayList<String> names = new ArrayList<>();
